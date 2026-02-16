@@ -1,1 +1,1 @@
-# pnas-figure3
+# Interactive-figure3
